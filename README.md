@@ -1,7 +1,7 @@
 
 # Lab # 6: Enlazando mi proyecto con GitHub:
 *.md MarkDown
-
+Jazael Jerez Marte #6 5b
 * [x] Crear cuenta en GitHub.
 * [x] Crear un repositorio en GitHub - Nombre del repo - js-curso-06-5b.
 * [x] Cambiar el nombre de mi rama local master -> main.
