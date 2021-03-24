@@ -1,5 +1,5 @@
 /* Algoritmo de ordenamiento al Burbuja 0(n^2)*/
-/*Jazael Jerez Marte #6*/
+/*Jazael Jerez Marte */
 const ordenaBurbuja = (lista) => {
 
 
