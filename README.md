@@ -99,3 +99,18 @@ Jazael Jerez Marte #6 5b
         * [x] Hacemos **git add .**
         * [x] Hacemos **git commit -am "funciones para los tasks o tareas"**
         * [x] Hacemos **git push**   
+
+        # Lab 8.6 Trabajamos con la configuracion de Yargs:
+
+        Jazael Jerez Marte #6 5b
+
+        * [x] Empezamos a trabajar con el fichero **argvs.js**
+             * [x] Agregando los commandos que usara Yargs
+             * [x] Exporto el objeto **argv** para nuestro proyecto.
+
+        * [x] Empezamos a trabajar con **index.js**
+            * [x] Importamos y exportamos nuestras herramientas.
+
+        * [x] Hacemos **git add .**
+        * [x] Hacemos **git commit -am "Exportar tools components"**
+        * [x] Hacemos **git push** 

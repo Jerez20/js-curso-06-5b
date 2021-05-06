@@ -36,7 +36,7 @@ const updateTask = (title) => {
         list[title] = { ...list[title], completed: true }
         files.saveTask(list);
     } else {
-        console.log(Este titulo no existe ${title}.red);
+        console.log(`Este titulo no existe ${title}`.red);
     }
 
 }
@@ -50,7 +50,7 @@ const eraseTask = (title) => {
         delete list[title]
         files.saveTask(list);
     } else {
-        console.log(Este titulo no existe ${title}.red);
+        console.log(`Este titulo no existe ${title}`.red);
     }
 }
 
