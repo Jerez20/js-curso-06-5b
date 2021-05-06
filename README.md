@@ -114,3 +114,16 @@ Jazael Jerez Marte #6 5b
         * [x] Hacemos **git add .**
         * [x] Hacemos **git commit -am "Exportar tools components"**
         * [x] Hacemos **git push** 
+
+
+# Lab 8.7 Trabajamos con nuestra aplicacion principal:
+
+         Jazael Jerez Marte #6 5b
+
+        * [x] Empexamos a trabajar con el fichero **app.js**
+        * [x] Importamos las herramientas ```tasks argv``` y el paquete ```colors```
+          * [x] Usamos estructura ```switch```
+             * [x] Filtramos los comandos ```create update delete```
+        * [x] Hacemos **git add .**
+        * [x] Hacemos **git commit -am "Finaliza proyecto-pruebas de funcionamiento"**
+        * [x] Hacemos **git push**
