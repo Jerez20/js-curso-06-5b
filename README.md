@@ -85,3 +85,17 @@ Jazael Jerez Marte #6 5b
       * [x] Hacemos **git add .**
       * [x] Hacemos **git commit -am "Conigura argvs con opciones para los comandos"**   
       * [x] Hacemos **git push**   
+
+      # Lab 8.5 Trabajamos en funciones para los tasks o tareas:
+
+     Jazael Jerez Marte #6 5b
+
+    * [x] Empezamos a trabajar con **tasks.js**
+        * [x] Creamos funciones  para trabajar los tasks:
+             * createTask
+             * updateTask
+             * eraseTask
+        * [x] Exportamos nuestras funciones.
+        * [x] Hacemos **git add .**
+        * [x] Hacemos **git commit -am "funciones para los tasks o tareas"**
+        * [x] Hacemos **git push**   
