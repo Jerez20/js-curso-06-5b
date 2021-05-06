@@ -120,7 +120,7 @@ Jazael Jerez Marte #6 5b
 
          Jazael Jerez Marte #6 5b
 
-        * [x] Empexamos a trabajar con el fichero **app.js**
+        * [x] Empezamos a trabajar con el fichero **app.js**
         * [x] Importamos las herramientas ```tasks argv``` y el paquete ```colors```
           * [x] Usamos estructura ```switch```
              * [x] Filtramos los comandos ```create update delete```
